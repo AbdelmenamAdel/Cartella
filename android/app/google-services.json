@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427104807114",
+    "project_id": "cartella-979b4",
+    "storage_bucket": "cartella-979b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427104807114:android:bd178cce5153506f756c33",
+        "android_client_info": {
+          "package_name": "com.example.cartel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ahZodzyiZ7Cgm4sF4UD5PbXUuRmdPVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427104807114:android:63f3ac1c75dbe105756c33",
+        "android_client_info": {
+          "package_name": "com.example.cartella"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ahZodzyiZ7Cgm4sF4UD5PbXUuRmdPVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
