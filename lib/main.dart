@@ -1,5 +1,5 @@
 import 'package:cartella/app/app.dart';
-import 'package:cartella/app/env.variables.dart';
+import 'package:cartella/core/app/env.variables.dart';
 import 'package:cartella/core/widgets/error_widget.dart';
 import 'package:cartella/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
