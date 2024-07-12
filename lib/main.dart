@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 void main() async {
+  // flutterErrorWidget();
   flutterErrorWidget();
   WidgetsFlutterBinding.ensureInitialized();
   await EnvVariable.instance.init(envType: EnvTypeEnum.dev);
